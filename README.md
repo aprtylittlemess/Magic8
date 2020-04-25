@@ -1,1 +1,1 @@
-# Magic8
+# Magic8 ball game
